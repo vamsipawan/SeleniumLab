@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.selenium.UtilityFiles.AddCustomerGroups">
+        <methods>
+          <include name="close_browser"/>
+          <include name="intilize"/>
+          <include name="customersAdd"/>
+        </methods>
+      </class> <!-- com.selenium.UtilityFiles.AddCustomerGroups -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
